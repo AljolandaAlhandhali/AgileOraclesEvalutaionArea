@@ -20,6 +20,7 @@ public class MoveSnake {
         }
 
         // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+      
         // Reading the trend
         String direction = args[0].toLowerCase();
 
